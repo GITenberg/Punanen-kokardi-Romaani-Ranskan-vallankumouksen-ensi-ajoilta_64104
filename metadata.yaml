@@ -1,6 +1,9 @@
 _repo: Punanen-kokardi-Romaani-Ranskan-vallankumouksen-ensi-ajoilta_64104
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The red cockade. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Weyman, Stanley John
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/742
     wikipedia: https://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64104#Punanen-kokardi-Romaani-Ranskan-vallankumouksen-ensi-ajoilta
 gutenberg_issued: '2020-12-22'
 gutenberg_type: Text
 identifiers:
